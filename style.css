@@ -1,0 +1,21 @@
+div {
+    text-align: center;
+}
+
+.inp {
+    height: 50px;
+}
+
+.out {
+    padding-top: 20px;
+    font-size: 110%;
+}
+
+body {
+    background-color: aqua;
+}
+
+.Theme-dark {
+    background-color: #202020;
+    color: white;
+}
